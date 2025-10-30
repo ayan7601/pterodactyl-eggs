@@ -2,6 +2,7 @@
 # Velocity Proxy Installation Script
 # Updated for PaperMC API (2025)
 # ======================================
+# Server Files: /mnt/server
 PROJECT=velocity
 SERVER_DIR=/mnt/server
 SERVER_JARFILE=velocity.jar
